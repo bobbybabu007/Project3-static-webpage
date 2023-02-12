@@ -8,3 +8,4 @@ Simple Static Webpage Example
 The page theme was built with Bootstrap by [**David Miller**](https://github.com/davidtmiller), thank you for making it a putting it available.
 
 Dummy commit
+Commit for Tag 1.0.0
